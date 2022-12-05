@@ -1,15 +1,13 @@
 import React, { useState } from "react";
 import './App.css';
-import Header from "./components/Header/index.jsx";
+// import Header from "./components/Header/index.jsx";
 import Footer from "./components/Footer/index.jsx";
 import NavBar from "./components/NavBar/index.jsx";
 import Page from "./components/Page/index.jsx";
+import 'bootstrap/dist/css/bootstrap.css';
 
 function App() {
   const [pages] = useState ([
-    {
-      name: "Resume"
-    },
     {
       name: "About Me"
     },
@@ -18,19 +16,20 @@ function App() {
     },
     {
       name: "Contact"
-    }
+    },
+    {
+      name: "Resume"
+    },
   ]);
 
   const [currentPage, setCurrentPage] = useState(pages[0]);
   return (
     <div className="App">
-      <Header>
-        <NavBar
+      <NavBar
           pages={pages}
           setCurrentPage={setCurrentPage}
           currentPage={currentPage}
-        ></NavBar>
-      </Header>
+      ></NavBar>
       <main>
         <Page currentPage={currentPage}></Page>
       </main>

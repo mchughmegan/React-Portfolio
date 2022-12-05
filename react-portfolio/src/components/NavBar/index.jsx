@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react';
 
+
 function NavBar(props) {
     const {
         pages = [],
@@ -10,10 +11,10 @@ function NavBar(props) {
         document.title=currentPage.name;
     }, [currentPage]);
     return (
-        <nav>
-            <ul>
+        <nav className="navbar flex-row-reverse">
+            <ul className="navbar-nav list-group-horizontal">
                 {pages.map((page)=>(
-                    <li className={`${currentPage.name===page.name && "navActive"}`} key={page.name}>
+                    <li className={`nav-item ${currentPage.name===page.name && "navActive"} `} key={page.name}>
                         <span onClick={()=>setCurrentPage(page)}>
                             {page.name}
                         </span>
