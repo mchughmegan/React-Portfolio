@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-
+import "../../style/NavBar.css";
 
 function NavBar(props) {
     const {
@@ -14,7 +14,7 @@ function NavBar(props) {
         <nav className="navbar flex-row-reverse">
             <ul className="navbar-nav list-group-horizontal">
                 {pages.map((page)=>(
-                    <li className={`nav-item ${currentPage.name===page.name && "navActive"} `} key={page.name}>
+                    <li className={`btn nav-item me-1 ${currentPage.name===page.name && "navActive "} `} key={page.name}>
                         <span onClick={()=>setCurrentPage(page)}>
                             {page.name}
                         </span>
