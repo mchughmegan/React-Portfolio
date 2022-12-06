@@ -3,9 +3,9 @@ import profile from "../../assets/ava.jpg";
 
 function About() {
   return (
-    <div>
+    <div className="row m-3">
       <img className="img-fluid col-4"src={profile}></img>
-      <p className="text-left">
+      <p className="text-left col-6">
         Lifelong learner currently working on a certification in full-stack web
         development through the University of Texas at Austin coding bootcamp. A
         wide range of experiences in both planning and working with a team.
