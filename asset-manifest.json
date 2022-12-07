@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a5dca9b.css",
-    "main.js": "/static/js/main.7f1214ae.js",
-    "static/media/ava.jpg": "/static/media/ava.0047e614f2facef48612.jpg",
-    "static/media/ResumePageOne.png": "/static/media/ResumePageOne.95d16ebc86282c57a4af.png",
-    "static/media/ResumePageTwo.png": "/static/media/ResumePageTwo.b6a999270928a5fd98fc.png",
-    "static/media/WeatherDash.png": "/static/media/WeatherDash.27267f5b05f93658b570.png",
-    "static/media/Readme.png": "/static/media/Readme.dc046d62664240dcf74b.png",
-    "static/media/Social.png": "/static/media/Social.283df4fa2682220288f5.png",
-    "static/media/Quiz.png": "/static/media/Quiz.6ff0eebdce1122190e08.png",
-    "index.html": "/index.html",
-    "main.3a5dca9b.css.map": "/static/css/main.3a5dca9b.css.map",
-    "main.7f1214ae.js.map": "/static/js/main.7f1214ae.js.map"
+    "main.css": "/React-Portfolio/static/css/main.3a5dca9b.css",
+    "main.js": "/React-Portfolio/static/js/main.2e6092c6.js",
+    "static/media/ava.jpg": "/React-Portfolio/static/media/ava.0047e614f2facef48612.jpg",
+    "static/media/ResumePageOne.png": "/React-Portfolio/static/media/ResumePageOne.95d16ebc86282c57a4af.png",
+    "static/media/ResumePageTwo.png": "/React-Portfolio/static/media/ResumePageTwo.b6a999270928a5fd98fc.png",
+    "static/media/WeatherDash.png": "/React-Portfolio/static/media/WeatherDash.27267f5b05f93658b570.png",
+    "static/media/Readme.png": "/React-Portfolio/static/media/Readme.dc046d62664240dcf74b.png",
+    "static/media/Social.png": "/React-Portfolio/static/media/Social.283df4fa2682220288f5.png",
+    "static/media/Quiz.png": "/React-Portfolio/static/media/Quiz.6ff0eebdce1122190e08.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.3a5dca9b.css.map": "/React-Portfolio/static/css/main.3a5dca9b.css.map",
+    "main.2e6092c6.js.map": "/React-Portfolio/static/js/main.2e6092c6.js.map"
   },
   "entrypoints": [
     "static/css/main.3a5dca9b.css",
-    "static/js/main.7f1214ae.js"
+    "static/js/main.2e6092c6.js"
   ]
 }
