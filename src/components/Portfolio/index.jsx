@@ -6,7 +6,7 @@ import quiz from "../../assets/Quiz.png";
 
 function Portfolio() {
     return(
-        <div className="container d-flex flex-wrap flex-row m-1 justify-content-around">
+        <div className="container d-flex flex-wrap flex-row m-1 justify-content-center">
             <div className="card flex-column m-2 col-5">
                 <img src={weather} className="card-img-top" alt="weather app"></img>
                 <div className="card-body">
