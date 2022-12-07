@@ -18,8 +18,9 @@ function NavBar(props) {
         document.title=currentPage.name;
     }, [currentPage]);
     return (
-        <nav style={styles.navbarStyle} className="navbar flex-row-reverse">
-            <ul className="navbar-nav list-group-horizontal">
+        <nav style={styles.navbarStyle} className="navbar">
+            <h1 className='col-6'>Megan McHugh</h1>
+            <ul className="navbar-nav list-group-horizontal col-6 flex-row-reverse">
                 {pages.map((page)=>(
                     <li className={`btn nav-item me-1 ${currentPage.name===page.name && "navActive "} `} key={page.name}>
                         <span onClick={()=>setCurrentPage(page)}>
