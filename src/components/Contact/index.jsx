@@ -14,7 +14,7 @@ function Contact() {
         GitHub
       </a>.</p>
       <h3 className="text-center">LinkedIn</h3>
-      <p className="text-left">Additionally, feel free to connect with my via <a href="https://github.com/mchughmegan">
+      <p className="text-left">Additionally, feel free to connect with my via <a href="https://www.linkedin.com/in/mchughmegan">
         LinkedIn
       </a>.</p>
       </div>     
