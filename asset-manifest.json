@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.3a5dca9b.css",
-    "main.js": "/React-Portfolio/static/js/main.52d58ce3.js",
-    "static/media/portfolioTwo.jpg": "/React-Portfolio/static/media/portfolioTwo.ead970956dd06529c0e0.jpg",
-    "static/media/ResumePageOne.png": "/React-Portfolio/static/media/ResumePageOne.e54bbd41348c811a9609.png",
-    "static/media/ResumePageTwo.png": "/React-Portfolio/static/media/ResumePageTwo.59455aabac9a77180542.png",
+    "main.js": "/React-Portfolio/static/js/main.f3e3b654.js",
+    "static/media/profile.jpg": "/React-Portfolio/static/media/profile.b52eaf0681781869b8c1.jpg",
+    "static/media/ResumePageOne.png": "/React-Portfolio/static/media/ResumePageOne.186fdca6a84032d08327.png",
+    "static/media/ResumePageTwo.png": "/React-Portfolio/static/media/ResumePageTwo.d0de0d40cf8e884d4a3e.png",
     "static/media/WeatherDash.png": "/React-Portfolio/static/media/WeatherDash.27267f5b05f93658b570.png",
     "static/media/Readme.png": "/React-Portfolio/static/media/Readme.dc046d62664240dcf74b.png",
     "static/media/Social.png": "/React-Portfolio/static/media/Social.283df4fa2682220288f5.png",
     "static/media/Quiz.png": "/React-Portfolio/static/media/Quiz.6ff0eebdce1122190e08.png",
     "index.html": "/React-Portfolio/index.html",
     "main.3a5dca9b.css.map": "/React-Portfolio/static/css/main.3a5dca9b.css.map",
-    "main.52d58ce3.js.map": "/React-Portfolio/static/js/main.52d58ce3.js.map"
+    "main.f3e3b654.js.map": "/React-Portfolio/static/js/main.f3e3b654.js.map"
   },
   "entrypoints": [
     "static/css/main.3a5dca9b.css",
-    "static/js/main.52d58ce3.js"
+    "static/js/main.f3e3b654.js"
   ]
 }
