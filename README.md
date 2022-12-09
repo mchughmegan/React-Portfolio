@@ -38,9 +38,15 @@ npm run deploy
 
 To view the deployed application, click on this link https://mchughmegan.github.io/React-Portfolio/.
 
-The user will enter the site and see the About Me page. 
+The user will enter the site and see the About Me page.
+
+![About Me](https://github.com/mchughmegan/React-Portfolio/blob/main/src/assets/AboutMe.png)
 
 Additionally, the user will be able to see see the Resume, Portfolio, and Contact Me pages by clicking the links at the top of the navigation bar.
+
+![Resume]()
+![Portfolio]()
+![Contact Me](https://github.com/mchughmegan/React-Portfolio/blob/main/src/assets/Contact.png)
 
 At the footer, the user will have links to LinkedIn and Github.
 
