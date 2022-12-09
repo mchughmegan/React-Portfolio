@@ -1,5 +1,5 @@
 import React from "react";
-import profile from "../../assets/portfolioTwo.jpg";
+import profile from "../../assets/profile.jpg";
 
 function About() {
   return (
@@ -7,7 +7,7 @@ function About() {
       <h1 className="text-center">Welcome</h1>
       <img className="img-fluid col-2 row justify-content-center"src={profile}></img>
       <p className="text-left row">
-        Lifelong learner currently working on a certification in full-stack web
+        Lifelong learner currently working on a certificate in full stack web
         development through the University of Texas at Austin coding bootcamp. A
         wide range of experiences in both planning and working with a team.
         Strengths include understanding each persons individual skills,
