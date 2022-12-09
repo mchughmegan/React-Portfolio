@@ -44,22 +44,20 @@ The user will enter the site and see the About Me page.
 
 Additionally, the user will be able to see see the Resume, Portfolio, and Contact Me pages by clicking the links at the top of the navigation bar.
 
-![Resume]()
-![Portfolio]()
+![Resume](https://github.com/mchughmegan/React-Portfolio/blob/main/src/assets/Resume.png)
+![Portfolio](https://github.com/mchughmegan/React-Portfolio/blob/main/src/assets/Portfolio.png)
 ![Contact Me](https://github.com/mchughmegan/React-Portfolio/blob/main/src/assets/Contact.png)
 
 At the footer, the user will have links to LinkedIn and Github.
+![Footer](https://github.com/mchughmegan/React-Portfolio/blob/main/src/assets/Footer.png)
 
 ## Credits
 
-Thank you to the contributors to npmjs.com for the necessary dependencies for this application.
+Thank you to SheCodes for the color palette. 
+https://palettes.shecodes.io/
 
-Thank you to MDN Web Docs for the tutorial on routes, found here https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes.
-
-Thank you to mongoosejs.com for tutorials on Models, Connections, and Timestamps.
-https://mongoosejs.com/docs/api/model.html
-https://mongoosejs.com/docs/connections.html
-https://mongoosejs.com/docs/timestamps.html
+Thank you to the deployment instructions from create-react-app.dev
+https://create-react-app.dev/docs/deployment/
 
 ## License
     
